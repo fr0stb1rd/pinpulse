@@ -1,5 +1,5 @@
 # ⚡ PinPulse
-[![PyPI version](https://badge.fury.io/py/pinpulse.svg)](https://badge.fury.io/py/pinpulse)
+[![PyPI version](https://badge.fury.io/py/pinpulse.svg)](https://badge.fury.io/py/pinpulse) \| [Blog](https://fr0stb1rd.gitlab.io/posts/pinpulse-high-performance-async-pin-bruteforce/)
 
 **PinPulse** is a high-performance, asynchronous PIN brute-force tool built with Python. Utilizing `asyncio` and `aiohttp`, it is designed to test the resilience of PIN-based authentication mechanisms through rapid, concurrent HTTP requests.
 
