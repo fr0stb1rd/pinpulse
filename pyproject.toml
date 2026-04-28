@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "pinpulse"
-version = "1.0.0"
+version = "1.0.1"
 description = "High-performance, asynchronous PIN brute-force tool with a real-time progress bar"
 readme = "README.md"
 license = { text = "MIT" }
